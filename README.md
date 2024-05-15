@@ -1,6 +1,8 @@
 # NpgsqlEfCoreBugConsoleApp1
 
 
+## Database connection string is in `Constants.cs` file. Change it to your
+
 ## Error in query, when i apply o.UseModel(MainDbContextModel.Instance);
 
 ## You can remove CompiledModels folder and generate it again:
